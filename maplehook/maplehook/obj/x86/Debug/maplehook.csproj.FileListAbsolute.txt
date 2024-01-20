@@ -1,0 +1,9 @@
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\bin\Debug\maplehook.exe
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\bin\Debug\maplehook.pdb
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\maplehook.Form1.resources
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\maplehook.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\maplehook.exe
+c:\users\andrew\documents\visual studio 2010\Projects\maplehook\maplehook\obj\x86\Debug\maplehook.pdb

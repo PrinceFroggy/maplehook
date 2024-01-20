@@ -1,0 +1,22 @@
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\bin\Release\maplehook.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\bin\Release\maplehook.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\maplehook.Form1.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\maplehook.Form2.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\maplehook.Form3.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\maplehook.Properties.Resources.resources
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\maplehook.exe
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\maplehook\maplehook\obj\x86\Release\maplehook.pdb
+D:\Downloads\maplehook\maplehook\maplehook\bin\Release\maplehook.exe
+D:\Downloads\maplehook\maplehook\maplehook\bin\Release\maplehook.pdb
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.csprojAssemblyReference.cache
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.Form1.resources
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.Form2.resources
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.Form3.resources
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.Properties.Resources.resources
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.csproj.GenerateResource.cache
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.csproj.CoreCompileInputs.cache
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.exe
+D:\Downloads\maplehook\maplehook\maplehook\obj\x86\Release\maplehook.pdb
